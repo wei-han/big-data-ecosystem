@@ -1,2 +1,2 @@
 # big-data-ecosystem
-This is the coding assignment 1 for Big Data Ecosystem.
+These are the coding assignments for Big Data Ecosystem.
